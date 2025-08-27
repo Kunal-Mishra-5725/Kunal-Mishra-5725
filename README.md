@@ -1,7 +1,7 @@
 ## Hi there 👋
 <br>
-💫 About Me:
-## About Me  <br><br>- I’m passionate about **software development** and **open-source**.  <br>- Currently working on projects using **Node.js, Express, MongoDB, and frontend (HTML/CSS/JS/React)**.  <br>- Always eager to learn new technologies and improving my coding skills.  <br>- Interested in **web development, Ai and automation**.  <br>- I enjoy experimenting with Linux (Ubuntu) customizations and developer tools.  
+## About Me:
+<br><br>- I’m passionate about **software development** and **open-source**.  <br>- Currently working on projects using **Node.js, Express, MongoDB, and frontend (HTML/CSS/JS/React)**.  <br>- Always eager to learn new technologies and improving my coding skills.  <br>- Interested in **web development, Ai and automation**.  <br>- I enjoy experimenting with Linux (Ubuntu) customizations and developer tools.  
 
 
 ## 🌐 Socials:
