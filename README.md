@@ -47,8 +47,10 @@
 
 ---
 
-## 🐍 GitHub Snake Game  
+## 🐍 GitHub Snake Game   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kunal-Mishra-5725/Kunal-Mishra-5725/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kunal-Mishra-5725/Kunal-Mishra-5725/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kunal-Mishra-5725/Kunal-Mishra-5725/output/github-snake.svg" />
 </picture>
+
