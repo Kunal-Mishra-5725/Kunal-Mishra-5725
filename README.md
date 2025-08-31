@@ -1,4 +1,3 @@
-
 <h2 align="center" style="font-size: 45px;">Hi There, I'm Kunal Mishra</h2>
 
 <div align="center">
@@ -7,13 +6,12 @@
 
 </div>
 
-
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
- 
+
+  <!-- Left Section -->
   <div style="flex: 1;">
 
 ### Visitor Count  
-
 <p align="center">
   <img src="https://count.getloli.com/get/@Kunal224?theme=rule34" alt="Visitor Count" />
 </p>
@@ -28,15 +26,15 @@
 
 ### Connect with Me  
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/kunal-mishra-5j25" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="margin: 0 15px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
   <a href="https://x.com/Kunal_224u8138" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="40" style="margin: 0 15px;" />
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="40" />
   </a>
   <a href="mailto:kunal.pr.mishra@gmail.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" style="margin: 0 15px;" />
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" />
   </a>
 </p>
   </div>
@@ -49,34 +47,33 @@
 </div>
 
 
-<!--Bottom section-->
 ### Languages and Tools  
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" style="margin: 10px;"/> 
-  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" width="40" style="margin: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" style="margin: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="margin: 10px;"/> 
-  <img src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" width="40" style="margin: 10px; background-color: white; padding: 5px; border-radius: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" style="margin: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" style="margin: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" style="margin: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" style="margin: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" style="margin: 10px;"/> 
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" style="margin: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" style="margin: 10px; background-color: white; padding: 5px; border-radius: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" style="margin: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" style="margin: 10px;"/>   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" style="margin: 10px; background-color: white; padding: 5px; border-radius: 5px;"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" style="margin: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40" style="margin: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40" style="margin: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> 
+  <img src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" width="40" style="background:white; padding:5px; border-radius:5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" style="background:white; padding:5px; border-radius:5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40"/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" style="background:white; padding:5px; border-radius:5px;"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40"/>
 </p>
 
 
-##  My GitHub Stats  
+## 📊 My GitHub Stats  
 
 <div style="display: flex; justify-content: space-between;">
 
@@ -87,8 +84,6 @@
 </div>
 
 <div align="center">
-
-  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kunal-Mishra-5725/Kunal-Mishra-5725/output/github-snake-dark.svg" />
