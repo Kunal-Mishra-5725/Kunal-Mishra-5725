@@ -1,56 +1,99 @@
-<h2 align="center">Hi there 👋, I'm Kunal Mishra</h2>
 
----
+<h2 align="center" style="font-size: 45px;">Hi There, I'm Kunal Mishra</h2>
 
-## 🚀 About Me  
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3700&color=D891EF&center=true&vCenter=true&width=550&lines=Aspiring+Fullstack+Developer;BTech+Computer+Science+%40%28MUJ%29;Interested+in+Open+Source;Exploring+MERN;Learning+New+Things)](https://git.io/typing-svg)
+
+</div>
+
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+ 
+  <div style="flex: 1;">
+
+### Visitor Count  
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@Kunal224?theme=rule34" alt="Visitor Count" />
+</p>
+
+### About Me  
+
 - 💻 Passionate about **software development** and **open-source**  
-- 🔨 Currently working on **Node.js, Express, MongoDB, React, and frontend (HTML/CSS/JS)**  
+- 🔨 Currently working on **Node.js, Express, MongoDB, React**  
 - 📚 Always eager to learn new technologies and improve my coding skills  
 - 🤖 Interested in **web development, AI, and automation**  
-- 🐧 I enjoy experimenting with **Linux (Ubuntu)** customizations and developer tools  
+- 🐧 I enjoy experimenting with **Linux (Ubuntu)** customizations and developer tools (I somehow broke my grub twice💀!)
 
----
+### Connect with Me  
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunal-mishra-5j25) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Kunal_224u8138) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunal.pr.mishra@gmail.com)  
+<p>
+  <a href="https://linkedin.com/in/kunal-mishra-5j25" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="margin: 0 15px;" />
+  </a>
+  <a href="https://x.com/Kunal_224u8138" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="40" style="margin: 0 15px;" />
+  </a>
+  <a href="mailto:kunal.pr.mishra@gmail.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" style="margin: 0 15px;" />
+  </a>
+</p>
+  </div>
 
----
+  <!-- Right Section -->
+  <div style="flex: 1; text-align: center;">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNhYmsxZXRzeWZndnJncHRrOHB4MWFqd2M2dWFqa3lrbHpnOXFncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/84SFZf1BKgzeny1WxQ/giphy.gif" width="450" height="600" />
+  </div>
 
-## 💻 Tech Stack  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+</div>
 
----
 
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=Kunal-Mishra-5725&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=Kunal-Mishra-5725&theme=transparent&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-Mishra-5725&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
+<!--Bottom section-->
+### Languages and Tools  
 
----
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" style="margin: 10px;"/> 
+  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" width="40" style="margin: 10px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" style="margin: 10px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="margin: 10px;"/> 
+  <img src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" width="40" style="margin: 10px; background-color: white; padding: 5px; border-radius: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" style="margin: 10px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" style="margin: 10px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" style="margin: 10px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" style="margin: 10px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" style="margin: 10px;"/> 
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" style="margin: 10px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" style="margin: 10px; background-color: white; padding: 5px; border-radius: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" style="margin: 10px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" style="margin: 10px;"/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" style="margin: 10px; background-color: white; padding: 5px; border-radius: 5px;"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" style="margin: 10px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40" style="margin: 10px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40" style="margin: 10px;"/>
+</p>
 
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=Kunal-Mishra-5725&theme=transparent&no-frame=true&no-bg=false&margin-w=4)  
 
----
+##  My GitHub Stats  
 
-## 🐍 GitHub Snake Game   
+<div style="display: flex; justify-content: space-between;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Kunal-Mishra-5725&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="180em"/>
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Kunal-Mishra-5725&theme=transparent&hide_border=true" height="180em"/>
+
+</div>
+
+<div align="center">
+
+  
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kunal-Mishra-5725/Kunal-Mishra-5725/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kunal-Mishra-5725/Kunal-Mishra-5725/output/github-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kunal-Mishra-5725/Kunal-Mishra-5725/output/github-snake.svg" />
 </picture>
 
+</div>
