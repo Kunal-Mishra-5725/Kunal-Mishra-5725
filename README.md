@@ -6,12 +6,17 @@
   </a>
 
 <p>
-  <a href="https://github.com/Kunal-Mishra-5725">
-    <img src="https://img.shields.io/badge/GitHub-Kunal--Mishra--5725-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/kunal-mishra-302b04359/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kunal%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+    <img
+    src="https://count.getloli.com/get/@Kunal224?theme=booru-lewd"
+    alt="Visitor Count"
+    width="180"
+  />
+  
+  <img
+    src="https://wakatime.com/badge/user/cccb0b82-08c9-4d6f-9270-142a9c1cea94.svg"
+    alt="WakaTime"
+    width="180"
+  />
 </p>
 
 </div>
