@@ -1,16 +1,30 @@
+<!--starting -->
 <div align="center">
-<h1 >Kunal Mishra</h1>
+  
+<h3 >Kunal Mishra</h3>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3700&color=D891EF&center=true&vCenter=true&width=550&lines=21+y/o;Wannabe+Software+Developer;Working+towards+Open+Source;Learning+New+Things;Currently+Learning+ML"/>
   </a>
 
-<p>
-    <img
+<!--Visitor count and WakaTime badge -->
+<div align="start">
+  <h4> Visitor Count : </h4> 
+<!--
+<img
+align="right"
+src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVmMnF3dWcyeDJrem1ocXA0cTd0ZHZmaDNhNnhjeGswNjZjYmcyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPFNd1AJBoYcVUExmE/giphy.gif"
+  width="130"
+/>
+  -->
+<p align="left">
+  
+  <img
     src="https://count.getloli.com/get/@Kunal224?theme=booru-lewd"
     alt="Visitor Count"
     width="180"
   />
+  <br />
   
   <img
     src="https://wakatime.com/badge/user/cccb0b82-08c9-4d6f-9270-142a9c1cea94.svg"
@@ -18,6 +32,7 @@
     width="180"
   />
 </p>
+
 
 </div>
 
