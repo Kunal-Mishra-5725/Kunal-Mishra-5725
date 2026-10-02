@@ -116,7 +116,87 @@ An intelligent obstacle-detection and safety system combining computer vision wi
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2028%20mins-blue?style=flat)
 
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2013%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 214.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 152 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 14 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                849 commits         ███████████████████░░░░░░   76.08 % 
+🌆 Daytime                131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+🌃 Evening                83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+🌙 Night                  53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Tuesday                  137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Wednesday                188 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Thursday                 231 commits         █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+Friday                   139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Saturday                 135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Sunday                   149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               7 repos             ███████████░░░░░░░░░░░░░░   43.75 % 
+CSS                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Dockerfile               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Kunal-Mishra-5725/Kunal-Mishra-5725/main/assets/bar_graph.png)
+
+
+ Last Updated on 02/10/2026 21:30:21 UTC
 <!--END_SECTION:waka-->
 
 
