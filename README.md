@@ -22,7 +22,7 @@
 
   #### Visitor Count :
 
-  <img src="https://count.getloli.com/get/@Kunal224?theme=booru-lewd" alt="Visitor Count" width="180" />
+  <img src="https://count.getloli.com/get/@Kunal-Mishra-5725?theme=booru-lewd" alt="Visitor Count" width="180" />
   <br />
   <img src="http://img.shields.io/badge/Code%20Time-26%20hrs%2032%20mins-blue?style=flat" alt="WakaTime" width="180" />
 
