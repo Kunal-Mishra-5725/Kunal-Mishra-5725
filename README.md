@@ -3,6 +3,7 @@
 
 
 
+
   <!-- Container which has Name and variable text -->
   <div align="center">  
     <h3 >Kunal Mishra</h3>
@@ -10,6 +11,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3700&color=D891EF&center=true&vCenter=true&width=550&lines=21+y/o;Wannabe+Software+Developer;Working+towards+Open+Source;Learning+New+Things;Currently+Learning+ML"/>
     </a>
   </div>
+
 
 
 
@@ -22,7 +24,7 @@
 
   <img src="https://count.getloli.com/get/@Kunal224?theme=booru-lewd" alt="Visitor Count" width="180" />
   <br />
-  <img src="https://wakatime.com/badge/user/cccb0b82-08c9-4d6f-9270-142a9c1cea94.svg" alt="WakaTime" width="180" />
+  <img src="http://img.shields.io/badge/Code%20Time-26%20hrs%2032%20mins-blue?style=flat" alt="WakaTime" width="180" />
 
   ## About Me
 
@@ -45,6 +47,7 @@
 
 
 
+
 ## Tech Stack
 <!--Techstack-->
 <div align="center">
@@ -56,8 +59,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" style="margin: 10px; filter: invert(1);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" style="margin: 10px;"/>
+  <img src="https://cdn.simpleicons.org/express/FFFFFF" width="40" style="margin: 5px;" alt="Express" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" style="margin: 10px;"/>
@@ -66,7 +68,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="margin: 10px; filter: invert(1);"/>
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" style="margin: 5px;" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" style="margin: 10px;"/>
 </div>
@@ -105,6 +107,7 @@ An intelligent obstacle-detection and safety system combining computer vision wi
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kunal-Mishra-5725/Kunal-Mishra-5725/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kunal-Mishra-5725/Kunal-Mishra-5725/output/github-snake.svg" />
+    <br>
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kunal-Mishra-5725/Kunal-Mishra-5725/output/github-snake.svg"/>
   </picture>
 
@@ -112,37 +115,15 @@ An intelligent obstacle-detection and safety system combining computer vision wi
 
 <img src="https://github-readme-stats.vercel.app/api?username=Kunal-Mishra-5725&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-Mishra-5725&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<br>
 <img src="https://streak-stats.demolab.com?user=Kunal-Mishra-5725&theme=tokyonight&hide_border=true" />
 </div>
 
+<br>
+
+
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2032%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2013%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 214.4 kB Used in GitHub's Storage 
- > 
-> 🏆 152 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 7 Public Repositories 
- > 
-> 🔑 14 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                849 commits         ███████████████████░░░░░░   76.08 % 
-🌆 Daytime                131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-🌃 Evening                83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-🌙 Night                  53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-```
-📅 **I'm Most Productive on Thursday** 
+**I'm Most Productive on Thursday** 
 
 ```text
 Monday                   137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
@@ -153,70 +134,38 @@ Friday                   139 commits         ███░░░░░░░░�
 Saturday                 135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
 Sunday                   149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
 ```
+<br>
 
-
-📊 **This Week I Spent My Time On** 
+**This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
+Programming Languages: 
 Python                   3 mins              █████████████████████████   100.00 % 
 
-🔥 Editors: 
+Editors: 
 VS Code                  3 mins              █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
+Projects: 
 Python                   3 mins              █████████████████████████   100.00 % 
 
-💻 Operating System: 
+Operating System: 
 Linux                    3 mins              █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               7 repos             ███████████░░░░░░░░░░░░░░   43.75 % 
-CSS                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Dockerfile               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Kunal-Mishra-5725/Kunal-Mishra-5725/main/assets/bar_graph.png)
-
-
- Last Updated on 03/10/2026 03:03:30 UTC
 <!--END_SECTION:waka-->
 
 
 
 
-
 ## Connect With Me
-
 <div align="center">
-
-<a href="https://github.com/Kunal-Mishra-5725">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/kunal-mishra-302b04359/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:kunallswork@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+  <!-- Portfolio -->
+  <a href="https://kunalls-portfolio.vercel.app/"><img src="https://api.dicebear.com/9.x/initials/svg?seed=P&backgroundColor=212121&textColor=ffffff&radius=20&fontWeight=700" width="48" alt="Portfolio" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/kunal-mishra-302b04359/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Email / Gmail -->
+  <a href="mailto:kunallswork@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
 </div>
