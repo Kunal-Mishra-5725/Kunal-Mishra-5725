@@ -111,14 +111,6 @@ An intelligent obstacle-detection and safety system combining computer vision wi
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kunal-Mishra-5725/Kunal-Mishra-5725/output/github-snake.svg"/>
   </picture>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kunal-Mishra-5725&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-Mishra-5725&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-<br>
-<img src="https://streak-stats.demolab.com?user=Kunal-Mishra-5725&theme=tokyonight&hide_border=true" />
-</div>
-
 <br>
 
 
