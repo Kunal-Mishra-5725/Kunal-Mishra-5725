@@ -115,45 +115,6 @@ An intelligent obstacle-detection and safety system combining computer vision wi
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2032%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2013%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-95-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 214.5 kB Used in GitHub's Storage 
- > 
-> 🏆 155 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 7 Public Repositories 
- > 
-> 🔑 14 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                851 commits         ███████████████████░░░░░░   75.44 % 
-🌆 Daytime                141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-🌃 Evening                83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-🌙 Night                  53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Tuesday                  137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Wednesday                188 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Thursday                 231 commits         █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-Friday                   139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Saturday                 147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Sunday                   149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -172,12 +133,6 @@ Python                   3 mins              ███████████�
 Linux                    3 mins              █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -190,12 +145,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Kunal-Mishra-5725/Kunal-Mishra-5725/main/assets/bar_graph.png)
-
-
- Last Updated on 04/10/2026 03:32:02 UTC
 <!--END_SECTION:waka-->
 
 
