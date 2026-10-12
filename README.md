@@ -121,20 +121,17 @@ An intelligent obstacle-detection and safety system combining computer vision wi
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    32 mins             ████████████████████░░░░░   81.39 % 
-Python                   7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Python                   7 mins              ████████████████████████░   96.99 % 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
 🔥 Editors: 
-Antigravity Desktop      32 mins             ████████████████████░░░░░   81.39 % 
-VS Code                  7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-vigil                    32 mins             ████████████████████░░░░░   79.35 % 
-Python                   8 mins              █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Python                   7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    40 mins             █████████████████████████   100.00 % 
+Linux                    7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
