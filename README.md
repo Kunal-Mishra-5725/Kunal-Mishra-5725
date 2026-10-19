@@ -121,23 +121,24 @@ An intelligent obstacle-detection and safety system combining computer vision wi
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 15 mins        ██████████████████████░░░   89.13 % 
-Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-INI                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+JavaScript               1 hr 15 mins        ██████████████████████░░░   86.57 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+INI                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 🔥 Editors: 
-Zed                      45 mins             █████████████░░░░░░░░░░░░   53.79 % 
-Antigravity Desktop      34 mins             ██████████░░░░░░░░░░░░░░░   41.51 % 
-VS Code                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Zed                      45 mins             █████████████░░░░░░░░░░░░   52.26 % 
+Antigravity Desktop      37 mins             ███████████░░░░░░░░░░░░░░   43.17 % 
+VS Code                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 
 🐱‍💻 Projects: 
-my-portfolio             1 hr 20 mins        ████████████████████████░   95.29 % 
-Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+my-portfolio             1 hr 20 mins        ███████████████████████░░   92.55 % 
+Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 💻 Operating System: 
-Linux                    1 hr 24 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
