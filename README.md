@@ -121,23 +121,18 @@ An intelligent obstacle-detection and safety system combining computer vision wi
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 15 mins        ██████████████████████░░░   89.14 % 
-Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-INI                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+JavaScript               1 hr 15 mins        ███████████████████████░░   93.54 % 
+Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
 
 🔥 Editors: 
-Zed                      45 mins             █████████████░░░░░░░░░░░░   53.81 % 
-Antigravity Desktop      34 mins             ██████████░░░░░░░░░░░░░░░   41.48 % 
-VS Code                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Zed                      45 mins             ██████████████░░░░░░░░░░░   56.47 % 
+Antigravity Desktop      34 mins             ███████████░░░░░░░░░░░░░░   43.53 % 
 
 🐱‍💻 Projects: 
-my-portfolio             1 hr 20 mins        ████████████████████████░   95.30 % 
-Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+my-portfolio             1 hr 20 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 24 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
