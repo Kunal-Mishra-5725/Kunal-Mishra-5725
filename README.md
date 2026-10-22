@@ -121,18 +121,21 @@ An intelligent obstacle-detection and safety system combining computer vision wi
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 15 mins        ███████████████████████░░   93.54 % 
-Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+JavaScript               1 hr 15 mins        ██████████████░░░░░░░░░░░   56.19 % 
+Text                     53 mins             ██████████░░░░░░░░░░░░░░░   39.93 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 
 🔥 Editors: 
-Zed                      45 mins             ██████████████░░░░░░░░░░░   56.47 % 
-Antigravity Desktop      34 mins             ███████████░░░░░░░░░░░░░░   43.53 % 
+VS Code                  53 mins             ██████████░░░░░░░░░░░░░░░   39.93 % 
+Zed                      45 mins             ████████░░░░░░░░░░░░░░░░░   33.92 % 
+Antigravity Desktop      34 mins             ███████░░░░░░░░░░░░░░░░░░   26.15 % 
 
 🐱‍💻 Projects: 
-my-portfolio             1 hr 20 mins        █████████████████████████   100.00 % 
+my-portfolio             1 hr 20 mins        ███████████████░░░░░░░░░░   60.07 % 
+React                    53 mins             ██████████░░░░░░░░░░░░░░░   39.93 % 
 
 💻 Operating System: 
-Linux                    1 hr 20 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
