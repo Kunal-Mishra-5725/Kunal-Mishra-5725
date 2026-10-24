@@ -124,8 +124,7 @@ An intelligent obstacle-detection and safety system combining computer vision wi
 Text                     53 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  52 mins             █████████████████████████   98.81 % 
-Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+VS Code                  53 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
 React                    53 mins             █████████████████████████   100.00 % 
