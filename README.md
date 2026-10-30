@@ -121,8 +121,8 @@ An intelligent obstacle-detection and safety system combining computer vision wi
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   32 mins             ██████████████░░░░░░░░░░░   57.09 % 
-Text                     23 mins             ██████████░░░░░░░░░░░░░░░   41.60 % 
+Python                   32 mins             ██████████████░░░░░░░░░░░   57.12 % 
+Text                     23 mins             ██████████░░░░░░░░░░░░░░░   41.56 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 🔥 Editors: 
