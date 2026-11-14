@@ -24,7 +24,12 @@
 
   <img src="https://count.getloli.com/get/@Kunal-Mishra-5725?theme=booru-lewd" alt="Visitor Count" width="180" />
   <br />
-  <img src="http://img.shields.io/badge/Code%20Time-26%20hrs%2032%20mins-blue?style=flat" alt="WakaTime" width="180" />
+<a href="https://wakatime.com/@cccb0b82-08c9-4d6f-9270-142a9c1cea94">
+  <img 
+    src="https://wakatime.com/badge/user/cccb0b82-08c9-4d6f-9270-142a9c1cea94.svg" 
+    alt="WakaTime Code Time" 
+  />
+</a>
 
   ## About Me
 
