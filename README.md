@@ -121,28 +121,29 @@ An intelligent obstacle-detection and safety system combining computer vision wi
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   32 mins             ██████████████░░░░░░░░░░░   57.12 % 
-Text                     23 mins             ██████████░░░░░░░░░░░░░░░   41.56 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Python                   49 mins             █████████████████████████   98.02 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 🔥 Editors: 
-VS Code                  56 mins             █████████████████████████   100.00 % 
+VS Code                  41 mins             █████████████████████░░░░   83.02 % 
+Zed                      8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
 
 🐱‍💻 Projects: 
-Python                   56 mins             █████████████████████████   100.00 % 
+Python                   41 mins             █████████████████████░░░░   83.02 % 
+Fastapi                  8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
 
 💻 Operating System: 
-Linux                    56 mins             █████████████████████████   100.00 % 
+Linux                    50 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               7 repos             ███████████░░░░░░░░░░░░░░   43.75 % 
-CSS                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Dockerfile               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+JavaScript               7 repos             ██████████░░░░░░░░░░░░░░░   41.18 % 
+Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+CSS                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
