@@ -126,16 +126,16 @@ An intelligent obstacle-detection and safety system combining computer vision wi
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   31 mins             █████████████████████████   100.00 % 
+Python                   7 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Zed                      31 mins             █████████████████████████   100.00 % 
+Zed                      7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Fastapi                  31 mins             █████████████████████████   100.00 % 
+Fastapi                  7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    31 mins             █████████████████████████   100.00 % 
+Linux                    7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
